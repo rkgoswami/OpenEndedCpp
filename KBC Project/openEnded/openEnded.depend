@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1430975021 source:d:\study\opps\rk\openended\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<graphics.h>
+	"splash.h"
+
+1430723660 
+
+1430657632 source:d:\study\opps\rk\openended\splash.h
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+	<iostream>
+
+1430723660 d:\study\opps\rk\openended\splash.h
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+	<iostream>
+
+1430975021 source:f:\study\study\opps\rk\openended\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<graphics.h>
+	"splash.h"
+
+1430723660 f:\study\study\opps\rk\openended\splash.h
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+	<iostream>
+
+1430975022 source:/home/gosu/Workspace/Projects/KBC Project/openEnded/main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<graphics.h>
+	"splash.h"
+
+1430723662 /home/gosu/Workspace/Projects/KBC Project/openEnded/splash.h
+	<graphics.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<dos.h>
+	<iostream>
+
